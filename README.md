@@ -12,7 +12,7 @@ This repository contains a Docker Compose file for running MySQL, PostgreSQL, SQ
 1. Clone this repository:
 
 ```bash
-git clone <>
+git clone https://github.com/Aureo-Bueno/docker-up-app
 ```
 
 ## Start and Stop 
